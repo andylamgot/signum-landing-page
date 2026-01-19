@@ -51,7 +51,7 @@ const sections: { title: string; links: LinkItem[] }[] = [
       },
       {
         label: "Signum SmartJ",
-        href: "https://github.com/signum-network/SmartJ",
+        href: "https://github.com/signum-network/signum-smartj",
         Icon: faGithub,
       },
       { label: "BTDEX", href: "https://github.com/btdex", Icon: faGithub },
